@@ -34,10 +34,10 @@ acceptText: "Yes"
 # pendingImage: Image
 # Will be used for first shown image
 # Image MUST be inside `src/content/loves`
-pendingImage: "src/content/loves/images/anime-kiss.gif"
+pendingImage: "src/content/loves/images/be-mine-valentine.gif"
 
 # acceptedImage: Image
 # Will be used when Left button (Yes) is pressed
 # Image MUST be inside `src/content/loves`
-acceptedImage: "src/content/loves/images/be-mine-valentine.gif"
+acceptedImage: "src/content/loves/images/anime-kiss.gif"
 ---
