@@ -9,7 +9,7 @@ openingPhrase: "Will you be my valentine?"
 
 # acceptedPhrase: string
 # Will be used for accepted phrase (header on main page, when yes is pressed)
-acceptedPhrase: "Yay, Love you too - xoxo"
+acceptedPhrase: "Yay, I Love you too "
 
 # rejectionText: array of string
 # Will be used for changing text when Right button (No) is pressed
@@ -34,10 +34,10 @@ acceptText: "Yes"
 # pendingImage: Image
 # Will be used for first shown image
 # Image MUST be inside `src/content/loves`
-pendingImage: "./images/mocha-love-you.gif"
+pendingImage: "./images/anime-kiss"
 
 # acceptedImage: Image
 # Will be used when Left button (Yes) is pressed
 # Image MUST be inside `src/content/loves`
-acceptedImage: "./images/milk-mocha-hug.gif"
+acceptedImage: "./images/be-mine-valentine.gif"
 ---
